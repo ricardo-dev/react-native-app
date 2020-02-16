@@ -1,0 +1,4 @@
+#Thu May 02 16:52:55 BRT 2019
+base.0=/home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

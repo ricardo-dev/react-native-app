@@ -1,0 +1,293 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from [:react-native-maps] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-linear-gradient] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-vector-icons] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-android-location-enabler] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-android-location-enabler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/8a847883422e4699a69addf7b3c06709/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/87e04a34430e81fb7a42752e4f0f3124/AndroidManifest.xml:17:1-29:12
+MERGED from [com.facebook.react:react-native:0.57.3] /home/ricardo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/1dba281dcadd7d863c5ea5044fb359fa/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/567d5b3ddd2e7342903dad916d0d6455/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ricardo/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/0ac6372d873018a4d3c469ba4e93ca9c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/402144d8838053d37e8cd6b2e881bf57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f4ce7ccd10032230014e686e8b595573/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/111d3afc19ae96246ef37d7802b02a1e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/ed56c39b125156fbf40a480ea3704656/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/693cc34c56700018deee16530864e660/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/be87aad82ef6ef8f1312593a7c75513a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90a4ad5a2851c3ef54c5cb4223508a64/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ccc75af07d9ac0c46de5990a5855c846/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fac920195b654bfb06b7920fd90fd291/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1cde422f426e6e7544f7c8ec17990822/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fde58469249800a751efc3280944300b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/19397a677f1ddd17706c77f18afc2777/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/98b4aeab3f5ef3c2205e5336264dc31e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/40b4fa0e317a900d5c3a2dab21047cc1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f78ce5175568f2f2186c021ec9084d6a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/72c1eb4b362b4e218689802a3372e500/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a59f74211af371c9c4421c6d5737762e/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/ricardo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1dba77a4a760097a3a463d05c9c20d83/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4a910f97eef36582488b0e0a3be14731/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2bafd17cd8b30f99c8885223319f477f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/8ee97c1883fbfc27360e500132d58a25/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/07447044b24452641ceb4df51461ef6d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/809557483838341290db2fd40123cf8a/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:1-36:12
+	package
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.3] /home/ricardo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/1dba281dcadd7d863c5ea5044fb359fa/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.3] /home/ricardo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/1dba281dcadd7d863c5ea5044fb359fa/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:9:5-78
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:12:5-34:19
+MERGED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/8a847883422e4699a69addf7b3c06709/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/8a847883422e4699a69addf7b3c06709/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/87e04a34430e81fb7a42752e4f0f3124/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/87e04a34430e81fb7a42752e4f0f3124/AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.react:react-native:0.57.3] /home/ricardo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/1dba281dcadd7d863c5ea5044fb359fa/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.3] /home/ricardo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/1dba281dcadd7d863c5ea5044fb359fa/AndroidManifest.xml:13:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ricardo/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/0ac6372d873018a4d3c469ba4e93ca9c/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ricardo/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/0ac6372d873018a4d3c469ba4e93ca9c/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/111d3afc19ae96246ef37d7802b02a1e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/111d3afc19ae96246ef37d7802b02a1e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/ed56c39b125156fbf40a480ea3704656/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/ed56c39b125156fbf40a480ea3704656/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/693cc34c56700018deee16530864e660/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/693cc34c56700018deee16530864e660/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/be87aad82ef6ef8f1312593a7c75513a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/be87aad82ef6ef8f1312593a7c75513a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90a4ad5a2851c3ef54c5cb4223508a64/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90a4ad5a2851c3ef54c5cb4223508a64/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a59f74211af371c9c4421c6d5737762e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a59f74211af371c9c4421c6d5737762e/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/ricardo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1dba77a4a760097a3a463d05c9c20d83/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/ricardo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1dba77a4a760097a3a463d05c9c20d83/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:14:7-39
+	android:icon
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:17:7-38
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:13:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:19:7-21:64
+	android:value
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:21:7-62
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:20:7-52
+activity#com.ilumino.MainActivity
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:23:7-32:18
+	android:label
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:25:9-41
+	android:windowSoftInputMode
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:27:9-51
+	android:configChanges
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:26:9-79
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:24:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:28:9-31:25
+action#android.intent.action.MAIN
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:30:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:33:7-84
+	android:name
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:33:17-81
+uses-sdk
+INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-maps] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-location-enabler] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-android-location-enabler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-location-enabler] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-android-location-enabler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/8a847883422e4699a69addf7b3c06709/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/8a847883422e4699a69addf7b3c06709/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/87e04a34430e81fb7a42752e4f0f3124/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/87e04a34430e81fb7a42752e4f0f3124/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:react-native:0.57.3] /home/ricardo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/1dba281dcadd7d863c5ea5044fb359fa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.3] /home/ricardo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/1dba281dcadd7d863c5ea5044fb359fa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/567d5b3ddd2e7342903dad916d0d6455/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/567d5b3ddd2e7342903dad916d0d6455/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ricardo/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/0ac6372d873018a4d3c469ba4e93ca9c/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ricardo/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/0ac6372d873018a4d3c469ba4e93ca9c/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/402144d8838053d37e8cd6b2e881bf57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/402144d8838053d37e8cd6b2e881bf57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f4ce7ccd10032230014e686e8b595573/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f4ce7ccd10032230014e686e8b595573/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/111d3afc19ae96246ef37d7802b02a1e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/111d3afc19ae96246ef37d7802b02a1e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/ed56c39b125156fbf40a480ea3704656/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/ed56c39b125156fbf40a480ea3704656/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/693cc34c56700018deee16530864e660/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/693cc34c56700018deee16530864e660/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/be87aad82ef6ef8f1312593a7c75513a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/be87aad82ef6ef8f1312593a7c75513a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90a4ad5a2851c3ef54c5cb4223508a64/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90a4ad5a2851c3ef54c5cb4223508a64/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ccc75af07d9ac0c46de5990a5855c846/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ccc75af07d9ac0c46de5990a5855c846/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fac920195b654bfb06b7920fd90fd291/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fac920195b654bfb06b7920fd90fd291/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1cde422f426e6e7544f7c8ec17990822/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1cde422f426e6e7544f7c8ec17990822/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fde58469249800a751efc3280944300b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fde58469249800a751efc3280944300b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/19397a677f1ddd17706c77f18afc2777/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/19397a677f1ddd17706c77f18afc2777/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/98b4aeab3f5ef3c2205e5336264dc31e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/98b4aeab3f5ef3c2205e5336264dc31e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/40b4fa0e317a900d5c3a2dab21047cc1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/40b4fa0e317a900d5c3a2dab21047cc1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f78ce5175568f2f2186c021ec9084d6a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f78ce5175568f2f2186c021ec9084d6a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/72c1eb4b362b4e218689802a3372e500/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/72c1eb4b362b4e218689802a3372e500/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a59f74211af371c9c4421c6d5737762e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a59f74211af371c9c4421c6d5737762e/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4a910f97eef36582488b0e0a3be14731/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4a910f97eef36582488b0e0a3be14731/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2bafd17cd8b30f99c8885223319f477f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2bafd17cd8b30f99c8885223319f477f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/8ee97c1883fbfc27360e500132d58a25/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/8ee97c1883fbfc27360e500132d58a25/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/07447044b24452641ceb4df51461ef6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/07447044b24452641ceb4df51461ef6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/809557483838341290db2fd40123cf8a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/809557483838341290db2fd40123cf8a/AndroidManifest.xml:20:5-44
+INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/be87aad82ef6ef8f1312593a7c75513a/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-78
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:17-67
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/477ddd077ff0ee124fd8b9448162ace0/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/87e04a34430e81fb7a42752e4f0f3124/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/87e04a34430e81fb7a42752e4f0f3124/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/87e04a34430e81fb7a42752e4f0f3124/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/87e04a34430e81fb7a42752e4f0f3124/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/ricardo/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/0ac6372d873018a4d3c469ba4e93ca9c/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/693cc34c56700018deee16530864e660/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/ricardo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/693cc34c56700018deee16530864e660/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/ricardo/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/0ac6372d873018a4d3c469ba4e93ca9c/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/ricardo/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/0ac6372d873018a4d3c469ba4e93ca9c/AndroidManifest.xml:9:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/be87aad82ef6ef8f1312593a7c75513a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90a4ad5a2851c3ef54c5cb4223508a64/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90a4ad5a2851c3ef54c5cb4223508a64/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/be87aad82ef6ef8f1312593a7c75513a/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/ricardo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/be87aad82ef6ef8f1312593a7c75513a/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:1-36:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/ricardo/Desenvolvimento__ilumino/app ilumino/ilumino/android/app/src/main/AndroidManifest.xml:1:1-36:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
