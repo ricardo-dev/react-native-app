@@ -1,0 +1,73 @@
+** necessario para apisauce - ok
+yarn add axios
+doc: https://github.com/axios/axios
+
+** consumo da API - ok
+npm i apisauce --save
+doc: https://www.npmjs.com/package/apisauce
+
+** para layout    - header sem sombra - drawer sem problemas - ok
+yarn add native-base
+react-native link native-base
+doc: https://blog.rocketseat.com.br/native-base-no-react-native/
+
+** ativar GPS default - ok
+npm install react-native-android-enabler --save
+doc: https://github.com/Richou/react-native-android-location-enabler
+error - app stoped: https://github.com/Richou/react-native-android-location-enabler/issues/12 - android/app/build.gradle:
+	implementation 'com.google.android.gms:play-services-base:15.0.1'
+    	implementation 'com.google.android.gms:play-services-maps:15.0.1'
+
+** google autocomplete - ok
+yarn add react-native-google-places-autocomplete
+doc: https://github.com/FaridSafi/react-native-google-places-autocomplete
+
+** acesso a camera e imagem - ok
+yarn add react-native-image-picker
+	react-native link react-native-image-picker
+	passos https://github.com/react-native-community/react-native-image-picker/blob/HEAD/docs/Install.md
+doc: https://www.npmjs.com/package/react-native-image-picker
+
+** edicao de cores  - ok
+npm install react-native-linear-gradient --save
+passos para instalar de modo correto : https://github.com/react-native-community/react-native-linear-gradient
+doc: https://github.com/react-native-community/react-native-linear-gradient
+
+** mapas - ok
+npm install --save react-native-maps
+npm install react-native-maps
+	react-native link react-native-maps
+	passos para instalar https://medium.freecodecamp.org/how-to-integrate-maps-in-react-native-using-react-native-maps-5745490fe055
+	ps.: lembrar de colocar google() na primeira linha nas dependencias em build.gradle
+doc: https://github.com/react-native-community/react-native-maps
+mapStyle: https://mapstyle.withgoogle.com/
+
+** masked text - ok
+npm install react-native-masked-text --save
+doc: https://www.npmjs.com/package/react-native-masked-text
+
+** modal - ok
+yarn add react-native-modal
+doc: https://github.com/react-native-community/react-native-modal
+
+** barras de progresso - ok
+npm install react-native-progress --save
+doc: https://github.com/oblador/react-native-progress
+
+** Star rating - ok
+yarn add react-native-star-rating
+doc: https://www.npmjs.com/package/react-native-star-rating
+
+** vetores e icones - ok
+yarn add react-native-vector-icons
+react-native link
+doc: https://fontawesome.com/icons?d=gallery
+
+** abas de navegação 
+yarn add react-navigation@2.18.3
+doc: https://reactnavigation.org/docs/en/getting-started.html
+
+error undefined is not an object (evaluating rngestureHandlerModule.State)
+solution: https://github.com/kmagiera/react-native-gesture-handler/issues/205
+yarn add react-native-gesture-handler
+react-native link react-native-gesture-handler

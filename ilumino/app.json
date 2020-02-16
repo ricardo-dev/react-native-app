@@ -1,0 +1,6 @@
+{
+  "name": "ilumino",
+  "displayName": "De Omnia",
+  "icon":"home-icon.png",
+  "android.config.googleMaps.apiKey": "AIzaSyBUj-fiMXi8EFWbzkWAF5qbq1zkvouC5pc"
+}
