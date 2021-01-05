@@ -9,7 +9,7 @@
   "dependencies": {
     "@expo/vector-icons": "^8.0.0",
     "apisauce": "^1.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "expo": "^31.0.6",
     "native-base": "2.10.0",
     "react": "16.6.0-alpha.8af6728",
